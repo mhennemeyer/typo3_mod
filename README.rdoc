@@ -1,3 +1,3 @@
-= typo3_layout
+= typo3_mod
 
-Description goes here
+Redmine Plugin für forge.typo3.org
